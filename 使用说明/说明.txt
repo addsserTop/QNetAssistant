@@ -1,0 +1,7 @@
+本软件为网络助手，采用QT框架
+实现功能有：
+TCP服务端，TCP客户端，UDP广播
+使用时如果要换新模式，请按下原模式清空按钮，否则可能会出现未知BUG
+
+作者：addsser
+邮箱：addssertop@outlook.com
